@@ -1,0 +1,241 @@
+.hide{
+    display: none;
+}
+.title{
+    font-size: 72px;
+    font-family: "Helvetica Neue";
+    margin-left: 56px;
+    margin-top: 62px;
+    font-weight: lighter;
+    color: #16A553;
+}
+.author{
+    font-size: 36px; 
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+    margin-left: 56px;
+}
+h1{
+    margin-left: 1200px;
+    margin-top: 20px;
+    color: #16A553;
+    font-size: 40px;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+
+}
+h2{
+    margin-left: 1200px;
+    margin-top: 20px;
+    color: #16A553;
+    font-size: 40px;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+
+}
+h3{
+    margin-left: 415px;
+    margin-top: 20px;
+    color: #16A553;
+    font-size: 40px;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+
+}
+.p1{
+    margin-top: 100px;
+}
+.title_line{
+    width: 682px;
+    height: 1px;
+    background-color: #16A553;
+    margin-left: 340px;
+    margin-top: -22px;
+}
+#t132{
+    margin-left: 1200px;
+    margin-top: 20px;
+    color: #16A553;
+    font-size: 40px;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+}
+#ch01{
+    margin-left: 1200px;
+    margin-top: 20px;
+    color: #16A553;
+    font-size: 40px;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+}
+.pbk{
+
+}
+p{
+    margin: ;
+        margin-top: 25px;
+        margin-right: ;
+        margin-bottom: ;
+        margin-left: 417px ;
+    padding: ;
+        padding-top: ;
+        padding-right: ;
+        padding-bottom: ;
+        padding-left: ;
+    font-size: 18px;
+    color: black;
+    font-family: "Optima";
+    font-weight: lighter;
+    width: 542px;
+    line-height: ;
+
+}
+
+
+/* Tablets */
+
+@media only screen and (min-width: 800px) and (max-width: 1280px) {
+    .hide{
+        display: none;
+    }
+    .title{
+        font-size: 72px;
+        font-family: "Helvetica Neue";
+        margin-left: 56px;
+        margin-top: 62px;
+        font-weight: lighter;
+        color: #16A553;
+    }
+    .author{
+        font-size: 36px; 
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+        margin-left: 56px;
+    }
+    h1{
+        margin-left: 1200px;
+        margin-top: 20px;
+        color: #16A553;
+        font-size: 40px;
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+    
+    }
+    h2{
+        margin-left: 1200px;
+        margin-top: 20px;
+        color: #16A553;
+        font-size: 40px;
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+    
+    }
+    h3{
+        margin-left: 320px;
+        margin-top: 20px;
+        color: #16A553;
+        font-size: 40px;
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+    
+    }
+    .title_line{
+        width: 443px;
+        height: 1px;
+        background-color: #16A553;
+        margin-left: 340px;
+        margin-top: -22px;
+    }
+    p{
+    margin: ;
+        margin-top: 25px;
+        margin-right: ;
+        margin-bottom: ;
+        margin-left: 321px;
+    padding: ;
+        padding-top: ;
+        padding-right: ;
+        padding-bottom: ;
+        padding-left: ;
+    font-size: 16px;
+    color: black;
+    font-family: "Optima";
+    width: 485;
+    line-height: ;
+
+    }
+}
+/* Smart Phones*/
+
+
+@media only screen and (max-width: 800px) {
+    .hide{
+        display: none;
+    }
+    .title{
+        font-size: 72px;
+        font-family: "Helvetica Neue";
+        margin-left: 56px;
+        margin-top: 62px;
+        font-weight: lighter;
+        color: #16A553;
+    }
+    .author{
+        font-size: 36px; 
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+        margin-left: 56px;
+    }
+    h1{
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #16A553;
+        font-size: 40px;
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+    
+    }
+    h2{
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #16A553;
+        font-size: 40px;
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+    
+    }
+    h3{
+        margin-left: 20px;
+        margin-top: 20px;
+        color: #16A553;
+        font-size: 40px;
+        font-family: "Helvetica Neue";
+        font-weight: lighter;
+    
+    }
+    .title_line{
+        width: 443px;
+        height: 1px;
+        background-color: #16A553;
+        margin-left: 340px;
+        margin-top: -22px;
+    }
+    p{
+    margin: ;
+        margin-top: 25px;
+        margin-right: ;
+        margin-bottom: ;
+        margin-left: 40px;
+    padding: ;
+        padding-top: ;
+        padding-right: ;
+        padding-bottom: ;
+        padding-left: ;
+    font-size: 12px;
+    color: black;
+    font-family: "Optima";
+    width: 312px;
+    line-height: ;
+
+    }
+}
